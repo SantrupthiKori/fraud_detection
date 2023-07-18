@@ -1,4 +1,3 @@
-
 # Lead_Scoring_Case_Study
 An education company called X Education specializes in offering online courses to professionals in various industries. Their website attracts numerous professionals on a daily basis who are interested in exploring and enrolling in their courses.
 
